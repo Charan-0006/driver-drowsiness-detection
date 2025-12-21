@@ -1,0 +1,10 @@
+__pycache__/
+*.h5
+*.ckpt
+*.csv
+*.mp4
+*.avi
+*.zip
+data/
+weights/
+.env
