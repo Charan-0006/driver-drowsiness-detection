@@ -209,7 +209,6 @@ Head posture analysis
 
 Drowsiness alert generation
 
-📌 Demo video: (Add YouTube / Google Drive link here)
 
 🚫 What Is Not Included
 
